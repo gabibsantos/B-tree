@@ -1,6 +1,6 @@
 # Árvore B (B-Tree)
 
-Projeto de implementação de uma Árvore B em linguagem C, desenvolvido para a disciplina de Estruturas de Dados.
+Projeto de implementação de uma Árvore B em linguagem C, desenvolvido para a disciplina de Algoritmos e Estruturas de Dados 3.
 
 ## Descrição
 
