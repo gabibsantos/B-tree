@@ -23,13 +23,13 @@ A Árvore B é uma estrutura de dados balanceada utilizada para armazenamento e 
 - `arvoreB.c` / `arvoreB.h`: implementação da árvore B
 - `Makefile`: automação da compilação do projeto
 
+##Autores 
+- Gabriele Bueno Santos(@gabibsantos)
+- Ana Luiza Boeng 
+
 ## Compilação e execução
 
 ```bash
 make
 
 ./arvoreB
-
-##Autores 
-- Gabriele Bueno Santos(@gabibsantos)
-- Ana Luiza Boeng 
