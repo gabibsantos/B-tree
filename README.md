@@ -23,7 +23,7 @@ A Árvore B é uma estrutura de dados balanceada utilizada para armazenamento e 
 - `arvoreB.c` / `arvoreB.h`: implementação da árvore B
 - `Makefile`: automação da compilação do projeto
 
-##Autores 
+## Autores 
 - Gabriele Bueno Santos(@gabibsantos)
 - Ana Luiza Boeng 
 
