@@ -25,7 +25,7 @@ A Árvore B é uma estrutura de dados balanceada utilizada para armazenamento e 
 
 ## Autores 
 - Gabriele Bueno Santos(@gabibsantos)
-- Ana Luiza Boeng 
+- Ana Luiza Boeng (@anaboeng)
 
 ## Compilação e execução
 
